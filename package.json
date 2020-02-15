@@ -1,0 +1,10 @@
+{
+  "name": "@kali/audio",
+  "version": "1.0.0",
+  "description": "无界面音频播放组件",
+  "main": "./lib",
+  "files": [
+    "lib"
+  ],
+  "author": "Dan"
+}
